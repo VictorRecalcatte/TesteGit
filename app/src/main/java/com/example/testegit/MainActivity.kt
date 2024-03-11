@@ -36,7 +36,7 @@ fun App() {
 
    ) {
        Box {
-           Text(text = "Teste do GIT",
+           Text(text = "novo teste do GIT",
 
                style = MaterialTheme.typography.headlineLarge
 
